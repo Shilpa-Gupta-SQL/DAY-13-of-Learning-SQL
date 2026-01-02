@@ -10,7 +10,7 @@ Defines the window (group of rows) for calculation using PARTITION BY and ORDER 
 *ROW_NUMBER()
 Assigns a unique sequential number to each row within a partition.
 
-*RANK()
+*RANK() 
 Ranks rows within a partition, leaving gaps when values are tied.
 
 *DENSE_RANK()
